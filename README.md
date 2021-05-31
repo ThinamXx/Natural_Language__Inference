@@ -1,1 +1,1 @@
-# NaturalLanguageInference
+# **NATURAL LANGUAGE INFERENCE**
